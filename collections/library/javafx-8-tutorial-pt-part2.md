@@ -205,7 +205,7 @@ public class Person {
 
 ## Uma Lista de Pessoas
 
-Os principais dados que nossa aplicação gerencia é um monte de pessoas. Vamos criar uma lista para objetos `Person`  dentro da classe `MainApp`. Todos as outras classes controller classes obterão acesso posteriormente à lista central dentro de `MainApp`. 
+Os principais dados que nossa aplicação gerencia é um monte de pessoas. Vamos criar uma lista para objetos `Person`  dentro da classe `MainApp`. Todos as outras classes controller obterão acesso posteriormente à lista central dentro de `MainApp`. 
 
 
 ### ObservableList
